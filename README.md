@@ -39,6 +39,8 @@ uvicorn app:app --reload
 Backend runs at `http://127.0.0.1:8000`
 API docs at `http://127.0.0.1:8000/docs`
 
+> **Note:** On first run, the app will automatically create `resumes/` and `chroma_db/` folders in the project root. These are gitignored and stay local — they contain uploaded candidate PDFs and the vector database, which should never be committed or pushed to a public repo.
+
 ### 2. Frontend
 
 ```bash
