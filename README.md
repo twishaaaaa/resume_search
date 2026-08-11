@@ -30,7 +30,7 @@ An AI-powered tool for recruiters. Upload resumes (PDF), and search them using n
 
 ### Search & Result 
 
-![Search & Result](assets/search & result.png)
+![Search & Result](assets/search-result.png)
 
 ---
 
