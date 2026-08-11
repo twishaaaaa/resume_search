@@ -7,6 +7,35 @@ An AI-powered tool for recruiters. Upload resumes (PDF), and search them using n
 - **Backend:** FastAPI, LangChain, ChromaDB, Hugging Face Embeddings, pypdf
 - **Frontend:** React + Vite
 
+
+## 📷 Screenshots
+
+### Home Page
+
+> *(Add screenshot here)*
+
+```markdown
+![Home](assets/homepage.png)
+```
+
+### Uploading multiple files Resume
+
+```markdown
+![Upload](assets/multiple-files-uploading.png)
+```
+
+### Uploaded Resume
+
+```markdown
+![Uploaded](assets/uploaded.png)
+```
+
+### Search & Results
+
+```markdown
+![Search & Results](assets/search & results.png)
+```
+
 ## Project Structure
 
 ```
