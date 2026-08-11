@@ -12,29 +12,32 @@ An AI-powered tool for recruiters. Upload resumes (PDF), and search them using n
 
 ### Home Page
 
-> *(Add screenshot here)*
+![Home](screenshots/home.png)
 
-```markdown
-![Home](assets/homepage.png)
-```
+---
 
-### Uploading multiple files Resume
+### Login Page
 
-```markdown
-![Upload](assets/multiple-files-uploading.png)
-```
+![Login](screenshots/login.png)
 
-### Uploaded Resume
+---
 
-```markdown
-![Uploaded](assets/uploaded.png)
-```
+### Dashboard
 
-### Search & Results
+![Dashboard](screenshots/dashboard.png)
 
-```markdown
-![Search & Results](assets/search & results.png)
-```
+---
+
+### Upload Document
+
+![Upload](screenshots/upload.png)
+
+---
+
+### AI Chat
+
+![AI Chat](screenshots/chat.png)
+
 
 ## Project Structure
 
